@@ -27,8 +27,8 @@ List of key technical skills relevant to your web development expertise.
 A curated list of notable projects you've worked on. Include a brief description, technologies used, and links to live demos or GitHub repositories.
 
 1. **Project Name 1**
-   - Description: Brief description of the project.
-   - Technologies: List of technologies used.
+   - Description: Create a task tracker application that allows users to add, delete, and toggle the completion status of tasks.
+   - Technologies: React, CSS (for styling)
    - [Live Demo](https://example.com)
    - [GitHub Repository](https://github.com/yourusername/project1)
 
