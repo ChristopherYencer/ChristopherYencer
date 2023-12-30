@@ -32,11 +32,11 @@ A curated list of notable projects you've worked on. Include a brief description
    - [Live Demo](https://example.com)
    - [GitHub Repository](https://github.com/yourusername/project1)
 
-2. **Project Name 2**
-   - Description: Brief description of the project.
-   - Technologies: List of technologies used.
-   - [Live Demo](https://example.com)
-   - [GitHub Repository](https://github.com/yourusername/project2)
+2. **Task Tracker**
+   - Description: Create a task tracker application that allows users to add, delete, and toggle the completion status of tasks.
+   - Technologies: React, CSS (for styling)
+   - [Live Demo](https://github.com/yourusername/task-tracker-demo.git)
+   - [Task Tracker Demo - GitHub Repository](https://github.com/yourusername/task-tracker-demo)
 
 ## Experience
 List any relevant work experience, internships, or freelance work. Include company names, your role, and the duration.
